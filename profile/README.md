@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://quarkslab.com/">
-    <img width="250px" src="./profile/qb.png">
+    <img width="250px" src="./qb.png">
   </a>
 </p>
 
